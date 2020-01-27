@@ -20,7 +20,7 @@
     "babel-preset-es2015": "^6.13.2",
     "babel-preset-react": "^6.11.1",
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.19.0",
     "chalk": "^2.4.1",
     "consolidate": "^0.15.1",
     "cookie-encrypter": "^0.1.1",
