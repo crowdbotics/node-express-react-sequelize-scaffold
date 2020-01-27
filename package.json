@@ -54,7 +54,7 @@
     "react-dom": "^15.4.0",
     "react-router": "^2.6.1",
     "react-tap-event-plugin": "^2.0.1",
-    "redux": "^3.5.2",
+    "redux": "^4.0.5",
     "reload": "^1.0.1",
     "sass-loader": "^4.0.0",
     "sequelize": "^3.24.0",
