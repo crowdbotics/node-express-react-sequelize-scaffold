@@ -35,7 +35,7 @@
     "foreman": "^3.0.0",
     "fs": "0.0.1-security",
     "glob": "^7.1.6",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.13",
     "marked": "^0.8.0",
     "material-ui": "^0.16.3",
