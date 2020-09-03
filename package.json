@@ -32,7 +32,7 @@
     "extract-text-webpack-plugin": "^2.0.1",
     "file-loader": "^2.0.0",
     "fn": "^0.2.0",
-    "foreman": "^3.0.0",
+    "foreman": "^3.0.1",
     "fs": "0.0.1-security",
     "glob": "^7.1.6",
     "jquery": "^3.4.0",
