@@ -1,0 +1,24 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: weekly
+    day: sunday
+    time: "13:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: whatwg-fetch
+    versions:
+    - 3.5.0
+    - 3.6.1
+  - dependency-name: nodemailer
+    versions:
+    - 6.4.17
+    - 6.4.18
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: redux
+    versions:
+    - 4.0.5
